@@ -69,7 +69,7 @@ public class Pez extends Animal {
 		}
 	}
 
-	public String movimietno() {
+	public String movimiento() {
 		return "nadar";
 	}
 
